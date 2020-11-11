@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/dat3startcode/rest-jpa-devops-startcode.svg?branch=master)](https://travis-ci.org/dat3startcode/rest-jpa-devops-startcode)
 
-*This project is meant as start code for semester/eam projects for 3.sem"*
+*This project is meant as start code for semester/exam projects for 3.sem"*
 
 *Projects which are expected to use this start-code are projects that require all, or most of the following technologies:*
  - *JPA and REST*
