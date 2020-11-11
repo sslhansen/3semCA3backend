@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/dat3startcode/rest-jpa-devops-startcode.svg?branch=master)](https://travis-ci.org/dat3startcode/rest-jpa-devops-startcode)
+[![Build Status](https://travis-ci.com/sslhansen/3semCA3backend.svg?branch=master)](https://travis-ci.com/sslhansen/3semCA3backend)
 
-*This project is meant as start code for semester/exam projects for 3.sem"*
+*This project is meant as start code for semester/exam projects for 3.sem*
 
 ### Preconditions
 *In order to use this code, you should have a docker running, and internet access for extern endpoints*
