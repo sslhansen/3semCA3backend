@@ -83,7 +83,7 @@ public class DemoResource {
 
     
     @GET
-    @Path("lol")
+    @Path("extern")
     @Produces(MediaType.APPLICATION_JSON)
     public String getJokes() throws IOException {
         String randomDog = HttpUtils.fetchData("https://dog.ceo/api/breeds/image/random");
