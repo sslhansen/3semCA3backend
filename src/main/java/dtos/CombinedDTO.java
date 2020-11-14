@@ -5,14 +5,13 @@ public class CombinedDTO {
     
     private String activity, type, price, foodImage, programmerQuote, author, kanyeSays, dogPicture;
 
-    public CombinedDTO(BoredDTO boredDTO, FoodDTO foodDTO, KanyeDTO kanyeDTO, QuoteDTO quoteDTO, RandomDogDTO randomDogDTO) {
+    public CombinedDTO(BoredDTO boredDTO, KanyeDTO kanyeDTO, RandomDogDTO randomDogDTO) {
         this.activity = boredDTO.getActivity();
         this.type = boredDTO.getType();
         this.price = boredDTO.getPrice();
-        this.foodImage = foodDTO.getImage();
+
         this.kanyeSays = kanyeDTO.getQuote();
-        this.programmerQuote = quoteDTO.getEn();
-        this.author = quoteDTO.getAuthor();
+
         this.dogPicture = randomDogDTO.getMessage();
         
     }
